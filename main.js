@@ -59,16 +59,16 @@ gameLeveltnControl.forEach((levelBtn) => {
         carrot__count = 20
         bug__count = 20
         fire__count = 1
-        game__duration__sec = 10
+        game__duration__sec = 13
         break
       case '5':
         carrot__count = 20
         bug__count = 20
         fire__count = 2
-        game__duration__sec = 10
+        game__duration__sec = 11
         break
       case '6':
-        carrot__count = 20
+        carrot__count = 23
         bug__count = 20
         fire__count = 3
         game__duration__sec = 10
